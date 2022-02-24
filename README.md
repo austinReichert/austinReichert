@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @austinReichert
+- I’m interested in software engineering and absolutely abusing computers in the strangest ways using code
+- I’m currently learning micropython and SQLITE3
